@@ -10,8 +10,10 @@ How to test the API:
 
 use Postman/soap ui to test the following urls.
 
-List Accounts : http://localhost:8080/accounts/
-Create an Account: http://localhost:8080/accounts/ 
+List Accounts : http://localhost:8080/accounts/  
+
+Create an Account: http://localhost:8080/accounts/   
+
                    http method: POST
                    body json: 
                    {
