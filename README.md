@@ -5,6 +5,7 @@ Sample to create APIs for mobile only bank
 1. Import the project onto eclipse/STS as Import Gradle project.
 2. Run the server from Boot Dashboard
 3. By default h2 database is configured to C:\\data\\demo file.
+4. By default there are 3 account records available in database.
 
 How to test the API:
 
